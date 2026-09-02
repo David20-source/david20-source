@@ -110,8 +110,8 @@ I'm a **Bachelor of Information Technology** graduate from **Muteesa I Royal Uni
     <td width="50%">
       <h3 align="center">❤️ Kisakye Muto Home Charity</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </p>
       <p align="center">A responsive website for a charitable organisation to communicate its mission and gather support.</p>
