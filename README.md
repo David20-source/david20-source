@@ -1,7 +1,7 @@
 # 👋 Hello, I'm David Nyanzwengye
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2563EB&center=true&vCenter=true&width=500&lines=IT+Graduate;Software+Developer;Researcher;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2563EB&center=true&vCenter=true&width=500&lines=BIT+(Pending+Graduation);Software+Developer;Researcher;Problem+Solver" alt="Typing Animation" />
 </div>
 
 <p align="center">
