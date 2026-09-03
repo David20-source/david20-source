@@ -18,7 +18,7 @@ I'm a **Bachelor of Information Technology (BIT) — Pending Graduation** candid
 
 > *"Building practical digital solutions for real-world problems."*
 
-- 🎓 **Education:**BIT (Pending Graduation), Muteesa I Royal University (2023–2026) — CGPA: 4.22
+- 🎓 **Education:** BIT (Pending Graduation), Muteesa I Royal University (2023–2026) — CGPA: 4.22
 - 💻 **Current Focus:** Full-stack development with Python, JavaScript, React, and Flask
 - 🔬 **Research:** AI-aware traffic prediction in Kampala City
 - 🌍 **Location:** Kampala, Uganda (UTC+3)
