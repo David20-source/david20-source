@@ -14,11 +14,11 @@
 
 ## 🎯 About Me
 
-I'm a **Bachelor of Information Technology** graduate from **Muteesa I Royal University** with a passion for building practical digital solutions that solve real-world problems. My journey combines software development, research, and over seven years of teaching experience, which has honed my communication, mentoring, and leadership skills.
+I'm a **Bachelor of Information Technology (BIT) — Pending Graduation** candidate from **Muteesa I Royal University** with a passion for building practical digital solutions that solve real-world problems. My journey combines software development, research, and over seven years of teaching experience, which has honed my communication, mentoring, and leadership skills.
 
 > *"Building practical digital solutions for real-world problems."*
 
-- 🎓 **Education:** BIT, Muteesa I Royal University (2023–2026) — CGPA: 4.22
+- 🎓 **Education:**BIT (Pending Graduation), Muteesa I Royal University (2023–2026) — CGPA: 4.22
 - 💻 **Current Focus:** Full-stack development with Python, JavaScript, React, and Flask
 - 🔬 **Research:** AI-aware traffic prediction in Kampala City
 - 🌍 **Location:** Kampala, Uganda (UTC+3)
